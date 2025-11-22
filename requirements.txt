@@ -1,0 +1,14 @@
+tensorflow>=2.10
+keras
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python
+pillow
+streamlit
+tensorflow-hub
+imageio
+# optional
+python-docx
+python-pptx
